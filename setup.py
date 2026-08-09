@@ -13,10 +13,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='punam_57',
-    maintainer_email='punam_57@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer='Punam Bora',
+    maintainer_email='geniuspu69@gmail.com',
+    description='A ROS 2 robot command controller using publisher and controller nodes',
+    license='MIT',
     extras_require={
         'test': [
             'pytest',
